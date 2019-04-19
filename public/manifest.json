@@ -1,0 +1,8 @@
+{
+  "short_name": "Elm Order Form",
+  "name": "Exchange simple order book form built in elm.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
